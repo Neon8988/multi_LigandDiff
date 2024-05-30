@@ -1,6 +1,8 @@
 # multi-LigandDiff
 This repository is an extension of [LigandDiff](https://github.com/Neon8988/LigandDiff).
-<img src="https://github.com/Neon8988/multi_LigandDiff/blob/master/image/toc.png" width="480">
+<div align="left">
+  <img src="https://github.com/Neon8988/multi_LigandDiff/blob/master/image/toc.png" width="480">
+</div>
 
 # Dataset
 Download all datasets from this [link](https://zenodo.org/records/11397730)
