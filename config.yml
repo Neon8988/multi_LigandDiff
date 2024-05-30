@@ -1,0 +1,41 @@
+exp_name: 'Multi_LigandDiff'
+checkpoints: models
+logs: logs
+n_epochs: 2
+resume: 
+wandb_entity: null
+
+
+data: path to data
+train_data: path to train data
+val_data: path to validation data
+
+
+hidden_nf: 32
+activation: silu
+n_layers: 2
+attention: True
+
+normalization_factor: 100
+
+diffusion_steps: 500
+diffusion_noise_schedule: learned
+diffusion_noise_precision: 1.0e-5
+diffusion_loss_type: vlb
+normalize_factors: [10, 4, 1]
+
+
+lr: 1.0e-4
+batch_size: 2
+device: gpu
+model: gvp_dynamics
+test_epochs: 1
+n_stability_samples: 1
+center_of_mass: context
+clip_grad: False
+
+drop_rate: 0.2
+
+
+
+
