@@ -1,5 +1,6 @@
-# multi-LigandDiff
-This repository is an extension of [LigandDiff](https://github.com/Neon8988/LigandDiff).
+# multi-LigandDiff 
+- [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6658e2eb418a5379b0b280ba)
+- This repository is an extension of [LigandDiff](https://github.com/Neon8988/LigandDiff).
 <div align="left">
   <img src="https://github.com/Neon8988/multi_LigandDiff/blob/master/image/toc.png" width="480">
 </div>
